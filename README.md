@@ -57,12 +57,10 @@ source .venv/bin/activate
 
 - Streamlit
 
-clique [aqui](https://dashboard-dados-py.streamlit.app/) para acessar o site!
+clique [aqui](https://dashboard-python-6gome7z4ttomtycrrp8bjb.streamlit.app/) para acessar o site!
 
 ## Contato
 
 Email: <leonardopinheirosilva16@gmail.com>
 
 LinkedIn: <https://www.linkedin.com/in/leonardo-pinheiro-13ba26281/>
-
-Clique [aqui](https://dashboard-dados-py.streamlit.app/) para acessar o site!
