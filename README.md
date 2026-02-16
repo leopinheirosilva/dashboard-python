@@ -47,11 +47,15 @@ source .venv/bin/activate
 
 - Instalar dependências:
 
-`pip install -r requirements.txt`
+```code
+pip install -r requirements.txt
+```
 
 - Rodar a aplicação no servidor local:
 
-`streamlit run app.py`
+```code
+streamlit run app.py
+```
 
 ## Deploy
 
