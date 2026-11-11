@@ -56,15 +56,3 @@ pip install -r requirements.txt
 ```code
 streamlit run app.py
 ```
-
-## Deploy
-
-- Streamlit
-
-clique [aqui](https://dashboard-python-6gome7z4ttomtycrrp8bjb.streamlit.app/) para acessar o site!
-
-## Contato
-
-Email: <leonardopinheirosilva16@gmail.com>
-
-LinkedIn: <https://www.linkedin.com/in/leonardo-pinheiro-13ba26281/>
