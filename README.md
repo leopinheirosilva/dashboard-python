@@ -2,7 +2,7 @@
 
 Dashboard interativo construído com Streamlit para exploração e visualização de dados. Permite carregar datasets, visualizar tabelas, criar gráficos com Plotly e executar análises rápidas com pandas.
 
-![gif-demonstração](midias/demo.gif)
+![imagem de demonstração](midias/demo.png)
 
 ## Sobre
 
